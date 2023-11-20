@@ -1,2 +1,3 @@
-# OTP_Encrypt_Decrypt
-Next Gen Algorithm
+# Implementation of the One-Time Pad Cipher on LPC2148 Processor
+
+
